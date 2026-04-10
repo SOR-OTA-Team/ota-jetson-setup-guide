@@ -1,4 +1,4 @@
-# OTA-CE + Aktualizr 설정 가이드
+# OTA-CE + Aktualizr Configure Guide
 
 Jetson Orin Nano 보드에서 aktualizr를 실행하고, PC(Mac)에서 ota-ce 서버와 OTA 통신하는 전체 설정 가이드입니다.
 
